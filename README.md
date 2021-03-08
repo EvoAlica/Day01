@@ -1,2 +1,2 @@
 # Day01
-Moj prvi ARENA
+Moj prvi dan ARENA

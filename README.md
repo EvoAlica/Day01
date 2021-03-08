@@ -1,2 +1,2 @@
 # Day01
-Moj prvi dan ARENA
+This is my very first assignment!
